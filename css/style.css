@@ -59,7 +59,7 @@ button{
     padding:.8rem 3rem;
 }
 
-button:hover{x
+button:hover{
     background: var(--green);
     letter-spacing: .1rem;
 }
